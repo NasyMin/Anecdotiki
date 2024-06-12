@@ -8,10 +8,10 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ru.baksnn.project</groupId>
-	<artifactId>Joke-Bot</artifactId>
+	<groupId>ru.nasymin.project</groupId>
+	<artifactId>Anecdotiki</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Joke-Bot</name>
+	<name>Anecdotiki</name>
 	<description>Joke bot for Telegram</description>
 	<properties>
 		<java.version>22</java.version>
